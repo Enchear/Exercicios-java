@@ -14,6 +14,7 @@ public class Inferencia{
         System.out.println(c);
 
         var f = 13;
+        System.out.println(f);
        // c=4.5;
         }
 }
